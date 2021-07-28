@@ -35,6 +35,7 @@ public class changements : MonoBehaviour
         Cagette4 = new GameObject[] { C4_F1, C4_F2, C4_F3, C4_F4, C4_F5, C4_F6, C4_F7, C4_F8 };
         listes = new GameObject[] { L1, L2, L3, L4, L5, L6, L7, L8 };
         calibs = new GameObject[] { calibC1, calibC2, calibC3, calibC4, calibG };
+       
     }
 
     // Update is called once per frame
