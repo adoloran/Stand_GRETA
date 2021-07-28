@@ -1,7 +1,7 @@
 # Stand_GRETA
 
 ## Description 
-Ce projet est le stand de fruits et légumes réalisé sous Unity avec d'y intégrer l'agent conversationnel animé GRETA pour réaliser un protocole expérimental.
+Ce projet est le stand de fruits et légumes réalisé sous Unity avec le but d'y intégrer l'agent conversationnel animé GRETA pour réaliser un protocole expérimental.
 Version de Unity : 2020.3.12f1
 
 ## Récuperer le projet
